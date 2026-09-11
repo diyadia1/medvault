@@ -1,7 +1,9 @@
 # MedVault
 
 A decentralized medical record platform designed to give patients greater control over their healthcare data.
+## Preview
 
+![MedVault dashboard preview](medvault-preview.png)
 ## Overview
 
 MedVault explores the use of blockchain and decentralized storage to improve privacy, transparency, and interoperability in digital healthcare records.
